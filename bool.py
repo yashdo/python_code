@@ -1,0 +1,8 @@
+print(" 10 int convert into bool",bool(10))
+print(" 10.6 float convert into bool",bool(10.6))
+print(" 10+20j comp convert into bool",bool(10+20j))
+print(" str convert into bool",bool("aaaa"))
+print("___________________false_________________")
+print(" str int convert into bool",bool(""))
+print(" int convert into bool",bool(0))
+print(" str convert into bool",bool(False))
